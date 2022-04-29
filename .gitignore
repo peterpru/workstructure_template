@@ -1,0 +1,11 @@
+# Workflow-related directories
+data/*
+results/*
+work/*
+
+# Environment-related files
+*-env
+*.sif
+
+# Except any .gitignore-file
+!**.gitignore
